@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\MyApp\bin\Debug\net6.0\MyApp.exe
+C:\Users\T-Gamer\MyApp\bin\Debug\net6.0\MyApp.deps.json
+C:\Users\T-Gamer\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+C:\Users\T-Gamer\MyApp\bin\Debug\net6.0\MyApp.dll
+C:\Users\T-Gamer\MyApp\bin\Debug\net6.0\ref\MyApp.dll
+C:\Users\T-Gamer\MyApp\bin\Debug\net6.0\MyApp.pdb
+C:\Users\T-Gamer\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+C:\Users\T-Gamer\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\MyApp\obj\Debug\net6.0\MyApp.dll
+C:\Users\T-Gamer\MyApp\obj\Debug\net6.0\ref\MyApp.dll
+C:\Users\T-Gamer\MyApp\obj\Debug\net6.0\MyApp.pdb
+C:\Users\T-Gamer\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
